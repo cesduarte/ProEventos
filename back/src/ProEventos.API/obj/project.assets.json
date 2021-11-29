@@ -1299,11 +1299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "c:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\demaria\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\Users\\demaria\\OneDrive\\Desenvolvimento\\Udemy\\Curso net core\\ProEventos\\back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1317,6 +1317,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
